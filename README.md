@@ -33,3 +33,13 @@
 - AND-Gateway, Folie 64, https://youtu.be/04PzN0stS5M?t=1040
 - Semantik AND-Gateway, Folie 65, https://youtu.be/04PzN0stS5M?t=1326
 - Übung 5.2, Folie 68, https://youtu.be/04PzN0stS5M?t=1940
+## Vorlesung: BPMN Gateways
+- https://youtu.be/bepXEZjXNuw
+- Übung 5.3: https://youtu.be/bepXEZjXNuw?t=141
+- OR-Gateway: https://youtu.be/bepXEZjXNuw?t=820
+- Standardfluss: https://youtu.be/bepXEZjXNuw?t=2091
+- Komplexes Gateway: https://youtu.be/bepXEZjXNuw?t=2380
+- Vweigungen ohne Gateways: https://youtu.be/bepXEZjXNuw?t=2681
+- Mixed Gateways: https://youtu.be/bepXEZjXNuw?t=3192
+
+
