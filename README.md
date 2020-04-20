@@ -27,7 +27,7 @@
 - BPMN Gateways: https://youtu.be/xEfFbLbvTrU?t=3042
 - XOR-Gateway: https://youtu.be/xEfFbLbvTrU?t=3329
 ## Vorlesung: BPMN Gateways 
-- https://youtu.be/04PzN0stS5M
+- Video: https://youtu.be/04PzN0stS5M
 - Split und Join Gateways, Folie 59, https://youtu.be/04PzN0stS5M?t=220
 - Semantik XOR-Gateway, Folie 60, https://youtu.be/04PzN0stS5M?t=389
 - AND-Gateway, Folie 64, https://youtu.be/04PzN0stS5M?t=1040
@@ -41,5 +41,11 @@
 - Komplexes Gateway: https://youtu.be/bepXEZjXNuw?t=2380
 - Vweigungen ohne Gateways: https://youtu.be/bepXEZjXNuw?t=2681
 - Mixed Gateways: https://youtu.be/bepXEZjXNuw?t=3192
-
+## Vorlesung: BPMN Schleifen und tyische Fehler
+- Video: https://youtu.be/MVw-wCBsptc
+- Schleifen: https://youtu.be/MVw-wCBsptc?t=97
+- Abbruchbedingung vorziehen: https://youtu.be/MVw-wCBsptc?t=551
+- Übung "Bewerbungen filtern": https://youtu.be/MVw-wCBsptc?t=1153
+- Typische Fehler: https://youtu.be/MVw-wCBsptc?t=1565
+- Einführung Pools & Lanes: https://youtu.be/MVw-wCBsptc?t=2662
 
