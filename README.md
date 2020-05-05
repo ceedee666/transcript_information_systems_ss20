@@ -58,6 +58,7 @@
 - Choreographie: https://youtu.be/j9_R4C2Oapo?t=2873
 - Typische Fehler: https://youtu.be/j9_R4C2Oapo?t=3198
 ### Vorlesung: BPMN Erweiterungen
+- Video: https://youtu.be/I2TA7ppMjKE
 - Wiederholung Zwischenereignisse: https://youtu.be/I2TA7ppMjKE?t=170
 - Angeheftete Ereignisse: https://youtu.be/I2TA7ppMjKE?t=263
 - Terminierung: https://youtu.be/I2TA7ppMjKE?t=774
@@ -66,7 +67,16 @@
 - Fehlerereignis und Eskalationsereignis: https://youtu.be/I2TA7ppMjKE?t=2886
 - Simulation von Prozessmodellen: https://youtu.be/I2TA7ppMjKE?t=3257
 ### Vorlesung: Strategische & Operative Prozessmodelle
+- Video: https://youtu.be/q6ZkIfUQiZ4
 - Zielgruppen für Prozessmodelle: https://youtu.be/q6ZkIfUQiZ4?t=272
 - Strategische Prozessmodelle: https://youtu.be/q6ZkIfUQiZ4?t=660
 - Operative Prozessmodelle: https://youtu.be/q6ZkIfUQiZ4?t=1730
 - Vom strateischen zum operativen Prozessmodell: https://youtu.be/q6ZkIfUQiZ4?t=2006
+## DMN
+- Video: https://youtu.be/5BRi9FV8Sog
+- Motivation: https://youtu.be/5BRi9FV8Sog?t=200
+- DMN Elemente: https://youtu.be/5BRi9FV8Sog?t=1238
+- Auswertungsvorschriften: https://youtu.be/5BRi9FV8Sog?t=2375
+- Übung 2: https://youtu.be/5BRi9FV8Sog?t=2465
+- Konsistenz und Vollständigkeit: https://youtu.be/5BRi9FV8Sog?t=2878
+- Demo Prozessengine: https://youtu.be/5BRi9FV8Sog?t=3429
