@@ -48,4 +48,12 @@
 - Übung "Bewerbungen filtern": https://youtu.be/MVw-wCBsptc?t=1153
 - Typische Fehler: https://youtu.be/MVw-wCBsptc?t=1565
 - Einführung Pools & Lanes: https://youtu.be/MVw-wCBsptc?t=2662
+## Vorlesung: Pools & Lanes
+- Video: https://www.youtube.com/watch?v=j9_R4C2Oapo
+- Übung 6.2: https://youtu.be/j9_R4C2Oapo?t=44
+- Wiederholung Pools & Lanes: https://youtu.be/j9_R4C2Oapo?t=465
+- Nachrichtenfluss: https://youtu.be/j9_R4C2Oapo?t=724
+- Übung 8: https://youtu.be/j9_R4C2Oapo?t=1683
+- Choreographie: https://youtu.be/j9_R4C2Oapo?t=2873
+- Typische Fehler: https://youtu.be/j9_R4C2Oapo?t=3198
 
