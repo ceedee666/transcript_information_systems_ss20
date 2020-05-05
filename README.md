@@ -56,4 +56,11 @@
 - Übung 8: https://youtu.be/j9_R4C2Oapo?t=1683
 - Choreographie: https://youtu.be/j9_R4C2Oapo?t=2873
 - Typische Fehler: https://youtu.be/j9_R4C2Oapo?t=3198
-
+## Vorlesung: BPMN Erweiterungen
+- Wiederholung Zwischenereignisse: https://youtu.be/I2TA7ppMjKE?t=170
+- Angeheftete Ereignisse: https://youtu.be/I2TA7ppMjKE?t=263
+- Terminierung: https://youtu.be/I2TA7ppMjKE?t=774
+- Ereignisbasiertes Gateway: https://youtu.be/I2TA7ppMjKE?t=1613
+- Teilprozesse: https://youtu.be/I2TA7ppMjKE?t=2233
+- Fehlerereignis und Eskalationsereignis: https://youtu.be/I2TA7ppMjKE?t=2886
+- Simulation von Prozessmodellen: https://youtu.be/I2TA7ppMjKE?t=3257
