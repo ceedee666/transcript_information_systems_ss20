@@ -87,4 +87,32 @@
 - Kosten und Nutzen von IT Systemen: https://youtu.be/7OR42CBxpPU?t=1172
 - Amortisationsrechnung: https://youtu.be/7OR42CBxpPU?t=1721
 ## Datenmodellierung 
-- 
+### Vorlesung: Einführung ER Modell
+- Video: https://youtu.be/0mTb4GaQew0
+- Motivation: https://youtu.be/0mTb4GaQew0?t=127
+- Datensätze, Dateien, Datenbanken: https://youtu.be/0mTb4GaQew0?t=849
+- Probleme bei der Verwaltung von Daten in Dateien: https://youtu.be/0mTb4GaQew0?t=1507
+- Entity-Relationship-Model: https://youtu.be/0mTb4GaQew0?t=2931
+- Unterschied Klassen und Instanzen: https://youtu.be/0mTb4GaQew0?t=3025
+- Entitätstypen: https://youtu.be/0mTb4GaQew0?t=3127
+- Relationen: https://youtu.be/0mTb4GaQew0?t=3189
+- Rückbezügliche Relationen: https://youtu.be/0mTb4GaQew0?t=3617
+### Vorlesung: Kardinalitäten im ER Modell 
+- Video: https://youtu.be/MRH4ShLBV-Y
+- Übung 5.2: https://youtu.be/MRH4ShLBV-Y?t=188
+- Kardinalitäten nach Chen: https://youtu.be/MRH4ShLBV-Y?t=977
+- Kardinalität 1:1: https://youtu.be/MRH4ShLBV-Y?t=1090
+- Kardinalität 1:n: https://youtu.be/MRH4ShLBV-Y?t=1220
+- Kardinalität n:m: https://youtu.be/MRH4ShLBV-Y?t=1357
+- Übung 6: https://youtu.be/MRH4ShLBV-Y?t=1484
+- Krähenfußnotation: https://youtu.be/MRH4ShLBV-Y?t=2171
+- Min-Max-Notation: https://youtu.be/MRH4ShLBV-Y?t=2239
+- Übung 7: https://youtu.be/MRH4ShLBV-Y?t=2288
+- Einführung Relationenmodel: https://youtu.be/MRH4ShLBV-Y?t=3002
+### Vorlesung: Relationenmodel
+- Video: https://youtu.be/hLtQi2Pd6Ns
+- Primärschlüssel: https://youtu.be/hLtQi2Pd6Ns?t=234
+- Überführung von 1:1 Beziehungen ins Relationenmodel: https://youtu.be/hLtQi2Pd6Ns?t=1136
+- Überführung von 1:n Beziehungen ins Relationenmodel: https://youtu.be/hLtQi2Pd6Ns?t=1697
+- Überführung von n:m Beziehungen ins Relationenmodel: https://youtu.be/hLtQi2Pd6Ns?t=2247
+- Übung 9.1: https://youtu.be/hLtQi2Pd6Ns?t=2690
