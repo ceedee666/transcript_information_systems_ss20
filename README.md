@@ -80,3 +80,11 @@
 - Übung 2: https://youtu.be/5BRi9FV8Sog?t=2465
 - Konsistenz und Vollständigkeit: https://youtu.be/5BRi9FV8Sog?t=2878
 - Demo Prozessengine: https://youtu.be/5BRi9FV8Sog?t=3429
+## Amortisation
+- Video: https://youtu.be/7OR42CBxpPU
+- Kosten und Nutzen von ERP Systemen: https://youtu.be/7OR42CBxpPU?t=213
+- Beispiel Rechnungsverarbeitung: https://youtu.be/7OR42CBxpPU?t=726
+- Kosten und Nutzen von IT Systemen: https://youtu.be/7OR42CBxpPU?t=1172
+- Amortisationsrechnung: https://youtu.be/7OR42CBxpPU?t=1721
+## Datenmodellierung 
+- 
