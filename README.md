@@ -116,3 +116,21 @@
 - Überführung von 1:n Beziehungen ins Relationenmodel: https://youtu.be/hLtQi2Pd6Ns?t=1697
 - Überführung von n:m Beziehungen ins Relationenmodel: https://youtu.be/hLtQi2Pd6Ns?t=2247
 - Übung 9.1: https://youtu.be/hLtQi2Pd6Ns?t=2690
+## Datenbanken & SQL
+### Vorlesung: Datenbanktransationen
+- Video: https://youtu.be/bwkWGZakamg
+- Übung 9.2: https://youtu.be/bwkWGZakamg?t=410
+- Motivation: https://youtu.be/bwkWGZakamg?t=1314
+- Probleme beim Ändern von Daten: https://youtu.be/bwkWGZakamg?t=1557
+- Definition Datenbanktransaktion: https://youtu.be/bwkWGZakamg?t=2125
+- ACID-Eigenschaften: https://youtu.be/bwkWGZakamg?t=2228
+- Motivation SQL: https://youtu.be/bwkWGZakamg?t=2228
+### Vorlesung: SQL
+- Video: https://youtu.be/yU6cykP8cT8
+- Motivation SQL: https://youtu.be/yU6cykP8cT8?t=165
+- Überblick SQL-Befehle: https://youtu.be/yU6cykP8cT8?t=460
+- SELECT: https://youtu.be/yU6cykP8cT8?t=636
+- SELECT DISTINCT: https://youtu.be/yU6cykP8cT8?t=1341
+- Übungsdatenbank: https://youtu.be/yU6cykP8cT8?t=1499
+- Übung 3: https://youtu.be/yU6cykP8cT8?t=2342
+- Komplexe SELECT-Anfragen: https://youtu.be/yU6cykP8cT8?t=2750
