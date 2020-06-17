@@ -148,3 +148,45 @@
 - Normalisierung - Definition: https://youtu.be/PAYh8A6kHdo?t=2887
 - 1. Normalform: https://youtu.be/PAYh8A6kHdo?&t=3090
 ### Vorlesung: Normalisierung
+- Video: https://youtu.be/defRfekOq3I
+- Widerholung: https://youtu.be/defRfekOq3I?t=621
+- 2. Normalform: https://youtu.be/defRfekOq3I?t=725
+- 3. Normalform: https://youtu.be/defRfekOq3I?lt=1268
+- Normalformen und ER-Modelle: https://youtu.be/defRfekOq3I?t=1737
+- Übung 11: https://youtu.be/defRfekOq3I?t=2170
+## Systementwicklung
+### Vorlesung 1
+- Video: https://youtu.be/0LQ-rLXFN_4
+- Motivation: https://youtu.be/0LQ-rLXFN_4?lt=219
+- Systemstrategie: https://youtu.be/0LQ-rLXFN_4?t=508
+- Strategic Alignment Model (SAM): https://youtu.be/0LQ-rLXFN_4?t=1452
+- Beispiel Amazon: https://youtu.be/0LQ-rLXFN_4?t=1889
+- Systemplanung: https://youtu.be/0LQ-rLXFN_4?t=2454
+- Anforderungen: https://youtu.be/0LQ-rLXFN_4?t=2933
+- Individual- vs. Standardsoftware: https://youtu.be/0LQ-rLXFN_4?t=3428
+### Vorlesung 2:
+- Video: https://youtu.be/Y5ez5cn5c8c
+- Softwareauswahl: https://youtu.be/Y5ez5cn5c8c?t=150
+- Systementwicklung für Individualsoftware: https://youtu.be/Y5ez5cn5c8c?t=418
+- Systemeinführung: https://youtu.be/Y5ez5cn5c8c?t=570
+- Vorgehensmodell: https://youtu.be/Y5ez5cn5c8c?t=1623
+- Wasserfallmodell: https://youtu.be/Y5ez5cn5c8c?t=1782
+- Spiralmodell: https://youtu.be/Y5ez5cn5c8c?t=1899
+- SCRUM: https://youtu.be/Y5ez5cn5c8c?t=2409
+- SCRUM Rollen: https://youtu.be/Y5ez5cn5c8c?t=2945
+- Schätzmethoden: https://youtu.be/Y5ez5cn5c8c?t=3135
+- Burndown-Chart: https://youtu.be/Y5ez5cn5c8c?t=3255
+### Gastvorlesung: Was steckt hinter einer App? Aspekte komplexer Softwaresysteme
+- Video: https://youtu.be/BWFNhtAi8CU
+- Folien der Vorlesung: https://speakerdeck.com/michaelsimons/die-corona-warn-app-cwa
+## Management der Imformationssicherheit
+- Video: https://youtu.be/iBmQI_lwfn4
+- Motivation: https://youtu.be/iBmQI_lwfn4?t=439
+- Management der Informationssicherheit: https://youtu.be/iBmQI_lwfn4?t=1135
+- Vertraulichkeit, Integrität und Verfügbarkeit: https://youtu.be/iBmQI_lwfn4?t=1270
+- Zusammenhang zwischen Sicherheit und Aufwand: https://youtu.be/iBmQI_lwfn4?t=1569
+- Risikomanagement: https://youtu.be/iBmQI_lwfn4?t=1740
+- Regelwerke: https://youtu.be/iBmQI_lwfn4?t=2242
+- Business Continuity Management: https://youtu.be/iBmQI_lwfn4?t=2658
+
+
