@@ -134,3 +134,17 @@
 - Übungsdatenbank: https://youtu.be/yU6cykP8cT8?t=1499
 - Übung 3: https://youtu.be/yU6cykP8cT8?t=2342
 - Komplexe SELECT-Anfragen: https://youtu.be/yU6cykP8cT8?t=2750
+### Vorlesung: SQL & Normalisierung
+- Video: https://youtu.be/PAYh8A6kHdo
+- Widerholung komplexes SELECT: https://youtu.be/PAYh8A6kHdo?t=208
+- UPDATE: https://youtu.be/PAYh8A6kHdo?t=265
+- INSERT: https://youtu.be/PAYh8A6kHdo?t=405
+- DELETE: https://youtu.be/PAYh8A6kHdo?t=458
+- Übungen: https://youtu.be/PAYh8A6kHdo?t=670
+- Übung 6: https://youtu.be/PAYh8A6kHdo?t=1554
+- Übung 7: https://youtu.be/PAYh8A6kHdo?t=2006
+- Übung 8: https://youtu.be/PAYh8A6kHdo?t=2207
+- Normalisierung - Motivation: https://youtu.be/PAYh8A6kHdo?t=2460
+- Normalisierung - Definition: https://youtu.be/PAYh8A6kHdo?t=2887
+- 1. Normalform: https://youtu.be/PAYh8A6kHdo?&t=3090
+### Vorlesung: Normalisierung
